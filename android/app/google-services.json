@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111137283106",
+    "project_id": "contact-management-f3adf",
+    "storage_bucket": "contact-management-f3adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111137283106:android:d7a33d3868cbc377033e7b",
+        "android_client_info": {
+          "package_name": "com.example.contactmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111137283106-666kb24gl1062eaqh894jts3lrh2fq7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pNS6EQ7p0V2BcbuZ7bidP46JBi_z5Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111137283106-666kb24gl1062eaqh894jts3lrh2fq7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
